@@ -9,7 +9,7 @@ Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.
     <a href="https://www.udemy.com/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/?">JavaScript vanilla.</a>
   </li>
 </ul>
-
+<hr>
 📌 <strong>¿Qué sé hacer?</strong>
 <ul>
   <li>
@@ -22,3 +22,4 @@ Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.
     PHP (interactuar con una base de datos, haciendo CRUD en SQL).
   </li>
 </ul>
+<hr>

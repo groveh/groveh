@@ -15,7 +15,7 @@
    <strong>Lo fundamental de HTML y CSS</strong> (formularios, botones, inputs, modelo de caja, algunos efectos...).
   </li>
     <li>
-     <strong>JavaScript vanilla</strong> (interactuar con el DOM, eventos, JSON, fetch)
+     <strong>JavaScript vanilla</strong> (interactuar con el DOM, eventos, JSON, fetch).
   </li>
   <li>
    <strong>PHP</strong> (interactuar con una base de datos, haciendo CRUD en SQL).

@@ -1,10 +1,21 @@
 ### Hola 👋
 
-Soy Adri, un amante de la tecnología que actualmente estudia desarrollo web.
+Soy Adri, un amante de la tecnología que estudia desarrollo web.
+Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.
 
 📖 <strong>¿Qué estoy aprendiendo actualmente?</strong>
 <ul>
   <li>
     <a href="https://www.udemy.com/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/?">JavaScript vanilla.</a>
+  </li>
+</ul>
+
+📌 <strong>¿Qué sé hacer?</strong>
+<ul>
+  <li>
+    Lo fundamental de HTML y CSS (formularios, botones, inputs, modelo de caja, algunos efectos...).
+  </li>
+    <li>
+    SQL (Consultas, subconsultas, índices).
   </li>
 </ul>

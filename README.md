@@ -5,7 +5,7 @@ Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.
 
 <hr>
 
- <h4>📖 ¿Qué estoy aprendiendo actualmente?</h4>
+ <h3>📖 ¿Qué estoy aprendiendo actualmente?</h3>
 <ul>
   <li>
     <a href="https://www.udemy.com/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/?">JavaScript vanilla.</a>

@@ -1,4 +1,4 @@
-### Hola 👋
+### ¡Hola! 👋
 
 Soy Adri, un amante de la tecnología que estudia desarrollo web.
 Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.
@@ -6,25 +6,26 @@ Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.
 <hr>
 
  <h3>📖 ¿Qué estoy aprendiendo actualmente?</h3>
-<ul>
-  <li>
-    <a href="https://www.udemy.com/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/?">JavaScript vanilla.</a>
-  </li>
-</ul>
-
+  <a href="https://www.udemy.com/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/?">JavaScript vanilla.</a>
 <hr>
 
-📌 <strong>¿Qué sé hacer?</strong>
+<h3>📌 ¿Qué sé hacer?</h3>
 <ul>
   <li>
-    Lo fundamental de HTML y CSS (formularios, botones, inputs, modelo de caja, algunos efectos...).
+   <strong>Lo fundamental de HTML y CSS</strong> (formularios, botones, inputs, modelo de caja, algunos efectos...).
   </li>
     <li>
-      JavaScript Vanilla (interactuar con el DOM, eventos, fetch)
+     <strong>JavaScript vanilla</strong> (interactuar con el DOM, eventos, JSON, fetch)
   </li>
   <li>
-    PHP (interactuar con una base de datos, haciendo CRUD en SQL).
+   <strong>PHP</strong> (interactuar con una base de datos, haciendo CRUD en SQL).
   </li>
 </ul>
 
 <hr>
+
+<h3>🎯 Objetivos</h3>
+<ul>
+ <li>Aprender a hacer un diseño responsive.</li>
+ </ul>
+ 

@@ -16,6 +16,9 @@ Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.
     Lo fundamental de HTML y CSS (formularios, botones, inputs, modelo de caja, algunos efectos...).
   </li>
     <li>
-    SQL (Consultas, subconsultas, índices).
+      JavaScript Vanilla (interactuar con el DOM, eventos, fetch)
+  </li>
+  <li>
+    PHP (interactuar con una base de datos, haciendo CRUD en SQL).
   </li>
 </ul>

@@ -26,6 +26,7 @@
 
 <h3>🎯 Objetivos</h3>
 <ul>
+ <li>Tener una buena base de JavaScript.</li>
  <li>Aprender a hacer un diseño responsive.</li>
  </ul>
  

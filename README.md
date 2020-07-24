@@ -18,7 +18,7 @@
      <strong>JavaScript vanilla</strong> (interactuar con el DOM, eventos, JSON, fetch).
   </li>
   <li>
-   <strong>PHP</strong> (interactuar con una base de datos, haciendo CRUD en SQL).
+   <strong>PHP</strong> (interactuar con una base de datos, haciendo CRUD en SQL a través de procedimientos).
   </li>
 </ul>
 

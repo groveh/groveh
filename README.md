@@ -1,7 +1,7 @@
 ### ¡Hola! 👋
 
 <p>Soy Adri, un amante de la tecnología que estudia desarrollo web.</p>
-<p>Actualmente curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.</p>
+<p>Curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.</p>
 
 <hr>
 

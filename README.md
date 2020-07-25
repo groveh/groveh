@@ -6,7 +6,7 @@
 <hr>
 
  <h3>📖 ¿Qué estoy aprendiendo actualmente?</h3>
-  <a href="https://www.udemy.com/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/?">JavaScript.</a>
+  <a href="https://www.udemy.com/course/master-en-css-responsive-sass-flexbox-grid-y-boostrap-4/">Frameworks de CSS.</a>
 <hr>
 
 <h3>📌 ¿Qué sé hacer?</h3>
@@ -26,7 +26,7 @@
 
 <h3>🎯 Objetivos</h3>
 <ul>
+  <li>Aprender a hacer un diseño responsive.</li>
  <li>Tener una buena base de JavaScript.</li>
- <li>Aprender a hacer un diseño responsive.</li>
  </ul>
  

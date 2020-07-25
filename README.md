@@ -26,7 +26,7 @@
 
 <h3>🎯 Objetivos</h3>
 <ul>
-  <li>Aprender a hacer un diseño responsive.</li>
+  <li>Conseguir un diseño web responsive.</li>
  <li>Tener una buena base de JavaScript.</li>
  </ul>
  

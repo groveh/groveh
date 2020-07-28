@@ -6,7 +6,7 @@ Soy Adri, un amante de la tecnología que está formándose en desarrollo web.</
 - 🌱 Aprendo por mi cuenta: [Diseño Responsive, SASS, Flexbox, GRID...](https://www.udemy.com/course/master-en-css-responsive-sass-flexbox-grid-y-boostrap-4/)
 - 💻 Familiarizado con: **HTML, CSS, JavaScript, PHP,** y **SQL**.
 
-<h4>🤔 ¿Qué sé hacer?</h4>
+<h3>🤔 ¿Qué sé hacer?</h3>
 <ul>
   <li>
    <strong>Lo fundamental de HTML y CSS</strong> (formularios, botones, inputs, modelo de caja, algunos efectos...).

@@ -1,13 +1,10 @@
-### ¡Hola! 👋
+# ¡Hola! 👋
 
-<p>Soy Adri, un amante de la tecnología que estudia desarrollo web.</p>
-<p>Curso el segundo año del F.P. de Desarrollo de Aplicaciones Web.</p>
+Soy Adri, un amante de la tecnología que está formándose en desarrollo web.</p>
 
-<hr>
-
- <h3>📖 ¿Qué estoy aprendiendo actualmente?</h3>
-  <a href="https://www.udemy.com/course/master-en-css-responsive-sass-flexbox-grid-y-boostrap-4/">Frameworks de CSS.</a>
-<hr>
+- 📖 Estudio: 2º F.P. Desarrollo de Aplicaciones Web.
+- 🌱 Aprendiendo por mi cuenta: [Diseño Responsive, SASS, Flexbox, GRID...](https://www.udemy.com/course/master-en-css-responsive-sass-flexbox-grid-y-boostrap-4/)
+- 💻 Familiarizado con: **HTML, CSS, JavaScript, PHP,** y **SQL**.
 
 <h3>📌 ¿Qué sé hacer?</h3>
 <ul>
@@ -21,12 +18,3 @@
    <strong>PHP</strong> (interactuar con una base de datos, haciendo CRUD en SQL a través de procedimientos).
   </li>
 </ul>
-
-<hr>
-
-<h3>🎯 Objetivos</h3>
-<ul>
-  <li>Conseguir un diseño web responsive.</li>
- <li>Tener una buena base de JavaScript.</li>
- </ul>
- 

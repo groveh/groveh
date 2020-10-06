@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Adri, un amante de la tecnología que está formándose en desarrollo web.</p>
+Soy Adri, amante de la tecnología que está formándose en desarrollo web.</p>
 
 - 📖 Estudio: 2º F.P. Desarrollo de Aplicaciones Web.
 - 🌱 Aprendo por mi cuenta: [Diseño Responsive, SASS, Flexbox, GRID...](https://www.udemy.com/course/master-en-css-responsive-sass-flexbox-grid-y-boostrap-4/)
